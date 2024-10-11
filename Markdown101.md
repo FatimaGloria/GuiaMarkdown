@@ -8,11 +8,12 @@ que es fácil de usar y de aprender.
 
 # Elementos básicos
 
-Texto normal
-
-**Texto en negrita**  
-
-***Texto en cursiva***
+| Sintaxis | Resultado |
+| ---- | ---- |
+| Texto normal | Texto normal|
+| ** Texto en negrita ** | **Texto en negrita** |
+| *** Texto en cursiva *** | ***Texto en cursiva*** |
+*Se quitan espacios
 
 
 # Encabezado 
