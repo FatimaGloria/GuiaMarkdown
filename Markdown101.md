@@ -14,15 +14,17 @@ que es fácil de usar y de aprender.
 | ** Texto en negrita ** | **Texto en negrita** |
 | *** Texto en cursiva *** | ***Texto en cursiva*** |
 
-*Se quitan espacios
+**NOTA:** Se quitan los espacios
 
-
-# Encabezado 
-## Encabezado 
-### Encabezado 
-#### Encabezado 
-##### Encabezado 
-###### Encabezado 
+| Sintaxis | Resultado |
+| ---- | ---- |
+| #Encabezado | # Encabezado |
+| ##Encabezado | ## Encabezado |
+| ###Encabezado | ### Encabezado |
+| ####Encabezado | #### Encabezado |
+| #####Encabezado | ##### Encabezado |
+| ######Encabezado | ###### Encabezado |
+ 
 
 
 
