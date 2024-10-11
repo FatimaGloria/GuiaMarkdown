@@ -16,15 +16,10 @@ que es fácil de usar y de aprender.
 
 **NOTA:** Se quitan los espacios
 
-| Sintaxis | Resultado |
-| ---- | ---- |
-| #Encabezado | # Encabezado |
-| ##Encabezado | ## Encabezado |
-| ###Encabezado | ### Encabezado |
-| ####Encabezado | #### Encabezado |
-| #####Encabezado | ##### Encabezado |
-| ######Encabezado | ###### Encabezado |
- 
+## Titulos o Encabezados
+### Se agrega # más espacio seguido del nombre, ejemplo: **# Encabezado**
+
+
 
 
 
