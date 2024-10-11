@@ -13,6 +13,7 @@ que es fácil de usar y de aprender.
 | Texto normal | Texto normal|
 | ** Texto en negrita ** | **Texto en negrita** |
 | *** Texto en cursiva *** | ***Texto en cursiva*** |
+
 *Se quitan espacios
 
 
