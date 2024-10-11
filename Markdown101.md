@@ -6,14 +6,19 @@ que es fácil de usar y de aprender.
 -Es portable por lo que los archivos pueden abrirse desde cualquier editor de texto.
 -Su extensión es .md pero tambien puede ser .markdown o .mdx
 
-### Elementos básicos
-
-# Encabezados Titulos (h1 en HTML)
-## Encabezados = h2
-### = h3
+# Elementos básicos
 
 Texto normal
-
+**Texto en negrita**
 ***Texto en cursiva***
+
+
+# Encabezado = h1 (HTML)
+## = h2
+### = h3
+#### = h4
+##### = h5
+###### = h6
+
 
 
