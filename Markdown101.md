@@ -6,18 +6,24 @@ que es fácil de usar y de aprender.
 * Es portable por lo que los archivos pueden abrirse desde cualquier editor de texto.
 * Su extensión es .md pero tambien puede ser .markdown o .mdx
 
+***
+
 # Elementos básicos
 
 | Sintaxis | Resultado |
 | ---- | ---- |
 | Texto normal | Texto normal|
-| ** Texto en negrita ** | **Texto en negrita** |
-| *** Texto en cursiva *** | ***Texto en cursiva*** |
-
-**NOTA:** Se quitan los espacios
-
-## Titulos o Encabezados
-### Se agrega # más espacio seguido del nombre, ejemplo: **# Encabezado**
+| `**Texto en negrita**` | **Texto en negrita** |
+| `*Texto en cursiva*` | *Texto en cursiva* |
+| `***Texto en cursiva y negrita***` | ***Texto en cursiva y negrita*** |
+| `# Encabezado` | <h1> Encabezado </h1> |
+| `## Encabezado` | <h2> Encabezado </h2> |
+| `### Encabezado` | <h3> Encabezado </h3> |
+| `#### Encabezado` | <h4> Encabezado </h4> |
+| `###### Encabezado` | <h5> Encabezado </h5> |
+| `####### Encabezado` | <h6> Encabezado </h6> |
+| `***` | <hr>  |
+| `1. Primer elemento de una lista.` | 1. Primer elemento de una lista. |
 
 
 
