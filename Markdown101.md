@@ -24,6 +24,8 @@ que es fácil de usar y de aprender.
 | `####### Encabezado` | <h6> Encabezado </h6> |
 | `***` | <hr>  |
 | `1. Primer elemento de una lista.` | 1. Primer elemento de una lista. |
+| `![Descripción de la imagen](/enlace/de/la/imagen.extension)` | ![Imagen de unas nubes](/img/tutorial/imagen-markdown.webp) |
+
 
 
 
